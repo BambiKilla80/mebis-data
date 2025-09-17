@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="196.77669mm"
-   height="245.62151mm"
-   viewBox="0 0 196.77669 245.62151"
+   width="233.2054mm"
+   height="285.5105mm"
+   viewBox="0 0 233.2054 285.5105"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -36,14 +36,17 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(580.99135,-142.12001)"><rect
+     transform="translate(617.42006,-142.12001)"><rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.8;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect46"
        width="190.97672"
        height="231.92215"
        x="-578.09137"
        y="152.91937"
-       ry="3.3993859" /><g
+       ry="3.3993859"
+       inkscape:export-filename=".\kalender.svg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" /><g
        id="g36"
        transform="translate(175.57485)"><rect
          style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:3.8;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
@@ -178,4 +181,14 @@
          id="path33"
          style="fill:#000000;stroke-width:1"
          d="m -682.07981,421.39326 c -0.006,0.005 -0.0132,0.0102 -0.0196,0.0155 -2.91366,2.40336 -5.95349,17.31427 -0.36411,20.74807 v -1.00717 l 37.76255,37.761 c 20.7694,20.76844 37.76307,37.90433 37.76307,38.07985 v 5.2e-4 c 0,0.0177 -0.86668,0.0308 -1.15445,0.047 0.0111,0.0184 0.023,0.0363 0.0341,0.0548 1.56179,2.84623 15.17275,8.71411 21.46225,0.0412 0.0515,-0.0666 0.10201,-0.13391 0.15348,-0.2005 -1.43213,-0.0218 -3.82147,-0.0421 -4.02766,-0.0661 -9.90162,-1.15466 -15.16978,-5.24583 -17.61184,-13.6772 -0.76457,-2.63966 -1.51545,-8.78285 -3.35122,-27.41848 -1.30122,-13.20899 -2.56324,-24.54068 -2.80448,-25.18141 -0.31054,-0.82485 -0.88856,-1.28697 -1.97921,-1.58285 -0.84722,-0.22984 -11.65969,-1.38958 -24.02799,-2.5771 -12.71246,-1.2206 -24.00696,-2.51115 -25.98187,-2.96882 -8.00723,-1.85553 -12.61871,-5.9385 -14.78515,-13.09119 -0.5197,-1.71577 -0.85367,-3.80874 -1.06763,-8.97723 z m 17.43717,28.85457 c 0,-0.26419 44.5646,4.13711 44.85773,4.43022 0.1049,0.1049 1.20381,10.27799 2.44223,22.60689 1.23842,12.32895 2.21629,22.45651 2.17299,22.50561 -0.12261,0.1388 -49.47295,-49.28114 -49.47295,-49.54272 z"
-         sodipodi:nodetypes="scccccssscccccssssssssssss" /></g></g></svg>
+         sodipodi:nodetypes="scccccssscccccssssssssssss" /></g><rect
+       style="fill:#ffffff;fill-opacity:0.00119761;stroke:#000000;stroke-width:5.8;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0;paint-order:markers fill stroke"
+       id="rect67"
+       width="190.97672"
+       height="231.92215"
+       x="-614.52008"
+       y="192.80833"
+       ry="3.3993859"
+       inkscape:export-filename=".\kalender.svg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" /></g></svg>
